@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋 I'm Soleha Siddique
 
-<!--
-**solehasiddique/solehasiddique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd Year Computer Science Student** at K.C. College  
+💻 **Frontend & Full Stack Developer** | 🤖 **AI/ML Enthusiast**  
+🚀 Passionate about building projects, learning new technologies, and growing as a developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- React.js & Next.js  
+- Node.js & MongoDB  
+- AI/ML Basics  
+
+---
+
+### 💼 Projects (so far)
+🕹️ Tic Tac Toe Game  
+💱 Currency Converter (with Dark Mode)  
+🔐 Password Manager (React)  
+🎧 Spotify Clone (HTML, CSS, JS)  
+
+*(Links will be added as I upload each project)*
+
+---
+
+### 📫 Connect With Me
+📧 Email: solehasiddique07@gmail.com  
+🐙 GitHub: [github.com/solehasiddique](https://github.com/solehasiddique)
+
+---
+
+### ⚡ Fun Fact
+I started my developer journey recently — and every project I build helps me learn something new! 💪
