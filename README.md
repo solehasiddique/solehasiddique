@@ -14,10 +14,10 @@
 ---
 
 ### 💼 Projects (so far)
+🎧 [Spotify Clone (HTML, CSS, JS)](https://github.com/solehasiddique/Spotify-clone) 
 🕹️ Tic Tac Toe Game  
 💱 Currency Converter (with Dark Mode)  
-🔐 Password Manager (React)  
-🎧 Spotify Clone (HTML, CSS, JS)  
+🔐 Password Manager (React)   
 
 *(Links will be added as I upload each project)*
 
