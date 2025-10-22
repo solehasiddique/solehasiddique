@@ -16,7 +16,7 @@
 ### 💼 Projects (so far)
 🎧 [Spotify Clone (HTML, CSS, JS)](https://github.com/solehasiddique/Spotify-clone) 
 🕹️ [Tic Tac Toe Game](https://github.com/solehasiddique/Tic-Tac-Toe) 
-💱 Currency Converter (with Dark Mode)  
+💱 [Currency Converter(with Dark Mode)](https://github.com/solehasiddique/Currency-Converter)  
 🔐 Password Manager (React)   
 
 *(Links will be added as I upload each project)*
