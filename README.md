@@ -17,7 +17,7 @@
 🎧 [Spotify Clone (HTML, CSS, JS)](https://github.com/solehasiddique/Spotify-clone) 
 🕹️ [Tic Tac Toe Game](https://github.com/solehasiddique/Tic-Tac-Toe) 
 💱 [Currency Converter(with Dark Mode)](https://github.com/solehasiddique/Currency-Converter)  
-🔐 Password Manager (React)   
+🔐 [Password Manager (React)](https://github.com/solehasiddique/Password-Manager)  
 
 *(Links will be added as I upload each project)*
 
