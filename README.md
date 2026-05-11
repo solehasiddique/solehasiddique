@@ -6,39 +6,65 @@
 
 ---
 
-### 🛠️ Working With
-- JavaScript  
-- React.js  
-- Next.js  
-- Node.js & MongoDB  
+## 🛠️ Working With
+
+- JavaScript
+- React.js
+- Next.js
+- Node.js
+- MongoDB
+- Tailwind CSS
 
 ---
 
-### 🌱 Currently Learning
-- Python  
-- AI/ML Basics  
+## 🌱 Currently Learning
+
+- Python
+- AI/ML Basics
+- Backend Architecture & Deployment
 
 ---
 
-### 💼 Projects (so far)
+## 💼 Featured Project
 
-🐶 **PawFund – Stray Dog Funding Platform (Next.js, MongoDB, Razorpay)**  
-A full-stack donation platform built to support stray dogs. Includes Razorpay payment integration, admin dashboard for approving and tracking donations, and MongoDB for data storage.  
-🔗 GitHub: [PawFund Repository](https://github.com/solehasiddique/pawfund)  
-🌐 Live: (Coming soon)
+### 🐾 PawFund – Stray Dog Donation & Adoption Platform
 
-🎧 [Spotify Clone (HTML, CSS, JS)](https://github.com/solehasiddique/Spotify-clone)  
-🕹️ [Tic Tac Toe Game](https://github.com/solehasiddique/Tic-Tac-Toe)  
-💱 [Currency Converter (with Dark Mode)](https://github.com/solehasiddique/Currency-Converter)  
+A full-stack crowdfunding platform built to support stray dogs through donations, campaigns, and adoption awareness.
+
+✨ Features:
+
+- Razorpay payment integration
+- Admin dashboard
+- Donation tracking
+- Protected admin routes
+- MongoDB database integration
+- Responsive UI with Tailwind CSS
+
+🔗 GitHub: https://github.com/solehasiddique/pawfund  
+🌐 Live Demo: https://pawfund-git-working-demo-soleha-siddiques-projects.vercel.app
+
+---
+
+## 💻 Other Projects
+
+🎧 [Spotify Clone (HTML, CSS, JS)](https://github.com/solehasiddique/Spotify-clone)
+
+🕹️ [Tic Tac Toe Game](https://github.com/solehasiddique/Tic-Tac-Toe)
+
+💱 [Currency Converter (Dark Mode)](https://github.com/solehasiddique/Currency-Converter)
+
 🔐 [Password Manager (React)](https://github.com/solehasiddique/Password-Manager)
 
 ---
 
-### 📫 Connect With Me
-📧 Email: solehasiddique07@gmail.com  
-🐙 GitHub: [github.com/solehasiddique](https://github.com/solehasiddique)
+## 📫 Connect With Me
+
+📧 Email: solehasiddique07@gmail.com
+
+🐙 GitHub: https://github.com/solehasiddique
 
 ---
 
-### ⚡ Fun Fact
-I started my developer journey recently — and every project I build helps me learn something new! 💪
+## ⚡ Fun Fact
+
+Every project I build teaches me something new, from debugging middleware at 2 AM to deploying full-stack apps on Vercel 🚀
