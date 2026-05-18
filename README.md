@@ -19,9 +19,8 @@
 
 ## 🌱 Currently Learning
 
-- Python
-- AI/ML Basics
-- Backend Architecture & Deployment
+- Python & AI Integrations
+- AI/ML Fundamentals
 
 ---
 
@@ -41,7 +40,7 @@ A full-stack crowdfunding platform built to support stray dogs through donations
 - Responsive UI with Tailwind CSS
 
 🔗 GitHub: https://github.com/solehasiddique/pawfund  
-🌐 Live Demo: https://pawfund-git-working-demo-soleha-siddiques-projects.vercel.app
+🌐 Live Demo: https://pawfund-opal.vercel.app/
 
 ---
 
@@ -54,6 +53,8 @@ A full-stack crowdfunding platform built to support stray dogs through donations
 💱 [Currency Converter (Dark Mode)](https://github.com/solehasiddique/Currency-Converter)
 
 🔐 [Password Manager (React)](https://github.com/solehasiddique/Password-Manager)
+
+🤖 [Jarvis-ai-assistant](https://github.com/solehasiddique/jarvis-ai-assistant)
 
 ---
 
