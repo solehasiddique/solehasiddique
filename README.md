@@ -54,7 +54,7 @@ A full-stack crowdfunding platform built to support stray dogs through donations
 
 🔐 [Password Manager (React)](https://github.com/solehasiddique/Password-Manager)
 
-🤖 [Jarvis-ai-assistant](https://github.com/solehasiddique/jarvis-ai-assistant)
+🤖 [Jarvis-ai-assistant (Python)](https://github.com/solehasiddique/jarvis-ai-assistant)
 
 ---
 
